@@ -24,7 +24,7 @@
 <br />
 
 [website]: https://lorenzobchristian.myportfolio.com
-[upwork]: https://www.upwork.com/fl/clbmiami2004
+[upwork]: https://www.upwork.com/fl/christianlorenzo4
 [twitter]: https://twitter.com/clbmiami2004
 [github]: https://www.github.com/clbmiami2004/
 [linkedin]: https://www.linkedin.com/in/christian-lorenzo-55a3715b
