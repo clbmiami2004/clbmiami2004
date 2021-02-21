@@ -1,13 +1,11 @@
 ### Hi there, I'm [Christian][website] 👋 
 
-## I'm an iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Constructor and Teacher! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
-- 🔭 I’m currently working on a [I'm in Danger App][website] 🌱!
-- 🌱 I’m currently learning full stack web development 🤣
+## I'm a very passionate iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, I love creating apps that could make people's lives easier and Teaching others when they need it! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+- 🔭 I'm one of the creators of the iOS [I'm in Danger App][website] 🌱!
+- 🌱 I’m currently learning full stack web development
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 🚀 One day I will see humans on Mars!
-- ⚡ Fun fact: I love to draw and build house
+- 🥅 Lyfetime Career Goals: Keep Contributing to Open Source Projects
 
 <br />
 
