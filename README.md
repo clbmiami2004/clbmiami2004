@@ -1,6 +1,6 @@
 ### Hi there, I'm [Christian][website] 👋 
 
-## I'm a very passionate iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, I love creating apps that could make people's lives easier and Teaching others when they need it! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## I'm a very passionate iOS <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, I love creating apps that could make people's lives easier and Teaching others when they need it! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 🔭 I'm one of the creators of the iOS [I'm in Danger App][website] 🌱!
 - 🌱 I’m currently learning full stack web development
 - 💡 I love innovation and new technologies
